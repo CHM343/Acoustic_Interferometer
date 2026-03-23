@@ -1,0 +1,25 @@
+#### SECTION 1: Experiment Info
+Track Name       : Recording 51
+Track ID         : 86823d93-f043-4c93-a530-d8745e4800bf
+Recording Start  : 2026-03-23 09:58:13
+Recording End    : 2026-03-23 09:58:45
+Recorded By      : Jeff
+Gas Used         : Argon
+Noise Profile    : white
+Duration         : 32.00 s
+Sample Rate      : 22050 Hz
+N Samples        : 706560
+
+#### SECTION 2: Time Axis
+Time Start       : 0.000000 s
+Time End         : 32.043492 s
+Time Increment   : 0.00004535 s  (1/22050)
+
+#### SECTION 3: FFT Parameters
+Method           : Welch, Rectangular window, 75% overlap
+Freq Start       : 0.0 Hz
+Freq Increment   : 0.67291 Hz
+Freq Stop        : 11025 Hz
+FFT Points Setting: 32768
+Frequency Points : 16385
+Units            : dB
